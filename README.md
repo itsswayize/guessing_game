@@ -1,1 +1,1 @@
-# guessing_game
+# math_game
